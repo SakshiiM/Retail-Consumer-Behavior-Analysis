@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 
 This project analyzes customer shopping behavior using transactional data from **3,900 purchases** across multiple product categories. The objective is to uncover insights into spending patterns, customer segmentation, subscription behavior, and product performance to support strategic business decision-making.
+<img width="1025" height="554" alt="image" src="https://github.com/user-attachments/assets/205a8fd5-4b26-4722-899d-ff403efb8745" />
+
 
 The project follows an end-to-end analytics workflow using **Python, PostgreSQL, and Power BI**.
 
